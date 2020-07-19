@@ -2,7 +2,7 @@
 Performing analysis on global kickstarter data to uncover trends of successful kickstarter projects across the globe. The purpose is to maximize the chances that Louise's play, Fear, will have a successful kickstarter campaign by quantifying categoristics of successful campaigns to be able to replicate certain characteristics of these campaigns while minimizing similarities towards failed campaigns.
 
 ## Analysis
-The data collected for this project included the name of the campaign, a brief synopsis of said campaign, the goal amount to be reached versus the amount actually pledged (from this the outcome of the campaign could be derived, if it reached the goal amount the campaign could be said to be successful whereas if it fell short the campaign would have failed), the country of origin of he campaign as well as the category and subcategory and the launch date of the campaign. 
+The data collected for this project included the name of the campaign, a brief synopsis of said campaign, the goal amount to be reached versus the amount actually pledged (from this the outcome of the campaign could be derived, if it reached the goal amount the campaign could be said to be successful whereas if it fell short the campaign would have failed), the country of origin of he campaign as well as the category and subcategory and the launch date of the campaign. Certain challenges that arose during the analysis as a result of the data set were that the date stamps on the data sheet were coded as Unix timestamps. In order to perform succesful analysis on these dates a conversion had to be made using the formula =(((J2/60)/60)/24)+DATE(1970,1,1) wherein J2 represented the column of the unix timestamp.
 
 ---
 
