@@ -14,7 +14,25 @@ Next, an analysis was done to see how the goal amount might play a role in the s
 
 ![](outcomes_chart.PNG)
 
-The columns were populated by counting the number of plays based upon the subcategory being theater,the goal amount falling into each corresponding bucket and if the result was marked as successful. 
+The columns were populated by counting the number of plays based upon the subcategory being theater,the goal amount falling into each corresponding bucket and if the result was marked as successful. From this data I was then able to gather this graph:
+
+![](Outcomes_vs_Goals.png)
+
+From this data it can be seen that for kickstarter theater campaigns started in the US, a successful outcome is much more like for campaigns with a smaller original goal. The percentage that the campaign will be successful drops corresponding to increases in goal amount.  While it can be seen from the chart that the percentage does increase again between the $30,000 to $40,000 bucket, the sample size for these are relatively small and as such I do not believe much can be infered from this.
+
+---
+
+Finally an analysis was done to see how the launch month of the campaign might affect the outcome for theater kickstarters in the US.
+
+![](Theater_Outcomes_vs_Launch.png)
+
+From this graph we can see how theater outcomes successes start to increase beginning around April before peaking between May and June before declining again reaching a low in December.
+
+# Results
+
+Giving these charts it can be seen that Louis's play, Fever, is not in a risky demographic with plays being the most popular form of kickstarter campaign of all the ones in the data set and also boasting one of the highest success rates.
+
+That being said there are certain measures that Louise should enact in order to hopefully realize a successful campaign. As previously demonstrated the success of a campaign is directly tied towards the goal amount of the play with more expensive plays having a much higher chance of failure than cheaper plays. With this information in mind Louise should do everything possible to minimize the budget of the play so as to minimize the goal amount on kickstarter, preferably keeping the goal amount below $20,000, above which it can be seen that less than half of the campaigns started met  with success. Finally, the ultimate graph demonstrates how the Launch month of the campaign could play a huge role in the success or failure of the campaign. Kickstarter users seem much less likely to donate towards plays during winter months, likely due to the temperature and are much more likely to support play campaigns during the period of April and June although the success rate finds a peak around May. With this information in mind Louise should plan to start his campaign around these months in order to maximize his chances of success.
 
 
 
