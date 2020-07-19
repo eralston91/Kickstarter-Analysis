@@ -12,7 +12,9 @@ From this graph it can be derived that the two most popular kickstarter campaign
 
 Next, an analysis was done to see how the goal amount might play a role in the success or failure of the campaign. In order to best visualize this 12 buckets were created to map the maximum goal amounts for the kickstarter campaigns:
 
-![](Theater_Outcomes_vs_Launch.png)
+![](outcomes_chart.PNG)
+
+The columns were populated by counting the number of plays based upon the subcategory being theater,the goal amount falling into each corresponding bucket and if the result was marked as successful. 
 
 
 
