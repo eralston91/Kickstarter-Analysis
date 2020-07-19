@@ -10,4 +10,4 @@ To begin the analysis a graph was created in order to demonstrate how the high l
 
 From this graph it can be derived that the two most popular kickstarter campaigns in the data set fell under the theater and music categories. These categories happened to be two of the more successfull categories as well. Of the 912 kickstarter campaigns in the US that could be categorized as theater 525 of them were successful thus boasting a %57.5 percent success rate and of the 636 musical campaigns launched 490 were successful thus sporting a great %77 percent success fate. When compared to the other categories it can be seen these categories seem to be more successful with only film and video sporting a higher success percentage than theater, although on a much smaller sample size.
 
-Next, an analysis was done to see how the g
+Next, an analysis was done to see how the goal amount might play a role in the success or failure of the campaign.
